@@ -10,3 +10,5 @@ Pre-conf docs for EY25
 ### Student materials on Microsoft Learn
 [https://learn.microsoft.com/en-us/training/paths/az-400-work-git-for-enterprise-devops/](https://learn.microsoft.com/en-us/training/paths/az-400-work-git-for-enterprise-devops/)
 
+### Labs
+[http://aka.ms/az400-labs](http://aka.ms/az400-labs)
